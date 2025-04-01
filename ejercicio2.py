@@ -4,4 +4,5 @@ area = base * altura
 a = base * 2
 b = altura * 2
 perimetro = a + b
-print 
+print(f"El área del rectángulo es: {area}")
+print(f"El perímetro del rectángulo es: {perimetro}")
