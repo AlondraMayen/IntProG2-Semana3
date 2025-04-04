@@ -6,3 +6,4 @@ b = altura * 2
 perimetro = a + b
 print(f"El área del rectángulo es: {area}")
 print(f"El perímetro del rectángulo es: {perimetro}")
+print(f"El perímetro del rectángulo es: {perimetro}")
